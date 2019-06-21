@@ -1,19 +1,20 @@
 
 
 .navbar {
-    background-color: darkturquoise;
+    background-color: purple;
     font-size: 20px;
     width: 960px;
-    height: 90px;
+    height: 108px;
+    color: whitesmoke;
 }
 
 
 .newName {
-    font-size: 40px;
+    font-size: 65px;
 }
 
 h2 {
-    color: darkturquoise;
+    color: purple;
     text-align: auto;
     margin: 10px;
     font-size: 40px;
@@ -36,7 +37,7 @@ img {
     display: inline-block;
     font-size: 25px;
     padding: 25px;
-    color: black;   
+    color: whitesmoke;   
 
 }
 ul {
@@ -46,13 +47,16 @@ ul {
 }
 
 h1 {
-    background-color: darkturquoise;
+    background-color: purple;
     color: whitesmoke;
     font-size: 20px;
     height: 10px;
     box-align: right;
 
     
+ }
+ a{
+     color: whitesmoke;
  }
  .class {
      position: relative;

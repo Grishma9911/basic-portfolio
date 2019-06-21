@@ -1,18 +1,22 @@
 
 .navbar {
-    background-color: darkturquoise;
+    background-color: purple;
     font-size: 20px;
     width: 960px;
     height: 108px;
+    color: white;
 }
 
 
 .newName {
     font-size: 50px;
 }
+a{
+    color: whitesmoke;
+}
 
 h1 {
-   background-color: darkturquoise;
+   background-color: purple;
    color: whitesmoke;
    font-size: 20px;
    height: 20px;
@@ -23,20 +27,20 @@ h1 {
 .nav li {
     display: inline-block;
     font-size: 25px;
-    padding: 25px;
-    color: black;    
+    padding: 25px; 
 
 }
 ul {
     text-align: right;
     text-emphasis-position: right;
     margin: auto;
+    color: white;
 
     
 }
 
 h2 {
-    color: darkturquoise;
+    color: purple;
     text-align: auto;
     margin: 10px;
     font-size: 40px;
