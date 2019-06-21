@@ -1,0 +1,77 @@
+
+.navbar {
+    background-color: darkturquoise;
+    font-size: 20px;
+    width: 960px;
+    height: 108px;
+}
+
+
+.newName {
+    font-size: 50px;
+}
+
+h1 {
+   background-color: darkturquoise;
+   color: whitesmoke;
+   font-size: 20px;
+   height: 20px;
+   box-align: right;
+   
+}
+
+.nav li {
+    display: inline-block;
+    font-size: 25px;
+    padding: 25px;
+    color: black;    
+
+}
+ul {
+    text-align: right;
+    text-emphasis-position: right;
+    margin: auto;
+
+    
+}
+
+h2 {
+    color: darkturquoise;
+    text-align: auto;
+    margin: 10px;
+    font-size: 40px;
+    width: 200px;
+    line-height: 70px;
+
+}
+p {
+    font-size: 20px;
+    margin: auto;
+    height: 130px;
+}
+
+img {
+    float: left;
+    margin:10px;
+    border:10px;
+    
+}
+
+body {
+    font-size: 20px;
+    margin: 50px;
+}
+
+div {
+    background-color: whitesmoke;
+    width: 960px;
+    margin: auto;
+
+    }
+    
+head {
+    background-color: turquoise;
+    color: white;
+    background-color: white;
+
+}
